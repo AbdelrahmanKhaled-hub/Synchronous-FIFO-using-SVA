@@ -1,4 +1,4 @@
-# Synchronous-FIFO-using-SV
+# Synchronous-FIFO-using-SVA
 Synchronous FIFO Design & Verification
 Overview
 This project implements a Synchronous First-In-First-Out (FIFO) memory buffer using SystemVerilog and verifies its correctness using SystemVerilog Assertions (SVA).
